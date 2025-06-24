@@ -1,11 +1,10 @@
-# wire-os
+# idiOtS
 
-The main repo for WireOS.
+The main repo for idiOtS.
 
-WireOS serves as a nice, stable, and maintained base for Vector CFW.
+idiOtS serves as an annoying, mentally unstable, asshole of a Vector CFW.
 
-This builds the OS, the /anki programs (`victor`), and creates a final OTA. This repo can be thought of as `wire-os-oelinux`.
-
+This is the source code, you can build it if you want or if there are no builds that work for current idiOts but if the conditions don't require it, it is reccomended that you use an OTA instead (the following is written by wire/keriganc and I did not write any of it)
 ## Submodules
 
 - /poky/poky -> [yoctoproject/poky](https://github.com/yoctoproject/poky) (walnascar)
@@ -57,9 +56,7 @@ cd wire-os
 
 ##  Donate
 
-If you want to :P
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/kercre123)
+Donate to wire, he did most of this, i dont deserve anything as i just modified it
 
 ## Differences compared to normal Vector FW
 
